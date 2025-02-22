@@ -28,7 +28,8 @@ List your team members along with their roles.
 - *SARAVANAMARIAPPAN M* - Role
 - *SWETHA S* - Role
 
-![Team Photo](media/team-photo.png)
+![team_zenofcoders](https://github.com/user-attachments/assets/0836632e-5947-4367-b7d3-3b6263928d49)
+
 
 ---
 
