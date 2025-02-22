@@ -1,4 +1,4 @@
-![PyExpo Logo](media/pyexpo-logo.png)
+![image](https://github.com/user-attachments/assets/ed7cf891-daee-4bd7-84e6-0904bb16964e)
 
 ---
 
